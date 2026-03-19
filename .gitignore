@@ -1,0 +1,22 @@
+# --- Firmware (STM32 / CMake) ---
+firmware/**/build/
+firmware/**/CMakeCache.txt
+firmware/**/CMakeFiles/
+firmware/**/build.ninja
+firmware/**/cmake_install.cmake
+firmware/**/compile_commands.json
+firmware/**/.cmake/
+firmware/compile_commands.json
+firmware/CMakeUserPresets.json
+firmware/Testing/
+
+# --- Altium Designer (regenerable / local) ---
+hardware/**/__Previews/
+hardware/**/History/
+
+# --- OS & editors ---
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~

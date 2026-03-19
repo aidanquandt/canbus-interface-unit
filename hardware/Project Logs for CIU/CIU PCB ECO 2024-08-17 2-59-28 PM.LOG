@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GND Pin=3-35
+Removed Pin From Net: NetName=GND Pin=3-36
+Removed Pin From Net: NetName=CAN_N Pin=R25-1
+Removed Member From Class: ClassName=Can_Interface Member=R25
+Change Component Designator: OldDesignator=3 NewDesignator=J2
+Added Component: Designator=LED3(LEDM1620X150N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-39/8731.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ROHM Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SML-D12P8WT86C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "755-SML-D12P8WT86C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/SML-D12P8WT86C?qs=HXFqYaX1Q2wFepzn1zWRrg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RESC2012X60N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RC0805FR-0756RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0805fr-0756rl/yageo?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-0756RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-0756RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0805FR-0756RL?qs=VLOqbHBAO5ckb16qgp9IuA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=CAN_N Pin=R24-1
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R17-2
+Added Net: Name=NetLED3_1
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=U1-54
+Added Net: Name=NetLED3_2
+Added Member To Class: ClassName=MCU Member=Component LED3 SML-D12P8WT86C
+Added Member To Class: ClassName=MCU Member=Component R17 56

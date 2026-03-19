@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: CIU.PcbDoc   2024-08-17  3:27:13 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Layer 1 Signal Power to Layer 4 Signal
+ASCII RoundHoles File : CIU-RoundHoles.TXT
+ASCII SlotHoles File : CIU-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             201       PTH        30.29inch (769.35mm)
+T2      24mil (0.6mm)                                             Slot              4         PTH        1.50inch (38.17mm)
+T3      43mil (1.1mm)                                             Round             5         PTH        0.40inch (10.16mm)
+T4      60mil (1.524mm)                                           Round             34        PTH        4.23inch (107.45mm)
+T5      126mil (3.2mm)                                            Round             3         PTH        4.53inch (115.07mm)
+T6      134mil (3.4mm)                                            Round             2         PTH        1.52inch (38.50mm)
+T7      26mil (0.65mm)                                            Round             2         NPTH       0.23inch (5.78mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              251
+
+Total Processing Time (hh:mm:ss) : 00:00:00

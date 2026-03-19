@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "interrupts.h": "c",
+        "compare": "cpp",
+        "helperfunctions.h": "c",
+        "canbus.h": "c",
+        "limits": "c",
+        "new": "c",
+        "adc.h": "c"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}
